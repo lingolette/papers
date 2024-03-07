@@ -1,2 +1,1 @@
-# papers
- Various public documentation
+# Lingolette public documents
